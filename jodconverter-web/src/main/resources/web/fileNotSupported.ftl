@@ -29,11 +29,12 @@
 </head>
 <body>
 <div class="container">
+	<p>    </p>
     <img src="images/sorry.jpg" />
     <span>
-        该文件类型(${fileType})系统暂时不支持在线预览，<b>说明</b>：
+        <b>说明</b>：
         <p>${msg}</p>
-        如有需要请联系<a href="mailto:1210893441@qq.com">@HappyPig</a>
+        该文件类型(${fileType})系统暂时不支持在线预览，如有需要请联系 <a href="mailto:info@eingsoft.com">@Eingsoft</a>
     </span>
 </div>
 </body>
